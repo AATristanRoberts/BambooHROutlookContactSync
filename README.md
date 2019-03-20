@@ -47,5 +47,3 @@ By default, the program will filter the directory. Replace `AA AU` with the filt
 4. When the BambooHR page opens in Google Chrome, enter your login details and click Login.
 
 5. Wait for the script to say `Done` then your contacts will be synced!
-
-# Configuration
